@@ -1,3 +1,5 @@
 components/**/*
 .ruby-version
 s3_website.yml
+*.swp
+*~
